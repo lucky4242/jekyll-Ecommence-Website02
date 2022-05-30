@@ -1,6 +1,6 @@
-#Creating an ecommerce website with Jekyll, Strapi, Tailwind CSS, and Snipcart frontend repository.
+# Creating an ecommerce website with Jekyll, Strapi, Tailwind CSS, and Snipcart frontend repository.
 
-##Requirements
+## Requirements
 
 Bundler
 
@@ -12,7 +12,7 @@ npm
 
 Ruby
 
-##Get started
+## Get started
 
 Clone the repository
 
